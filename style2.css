@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+p {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    color: #333;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+a{
+    border: solid;
+    border-color: #333;
+    border-radius: 10px;
+    color: black;
+}
